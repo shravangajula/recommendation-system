@@ -75,4 +75,3 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 - Consider adding examples or screenshots to the README to make it more informative and user-friendly.
 
 By following this template, you will have a well-documented project that is easy to understand and use for others.
-
