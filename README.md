@@ -54,9 +54,9 @@ Here is how you can use different parts of the recommendation system:
 ### Example Usage
 To run the content-based recommendation system, use the following command:
 
-python src/content_based/recommend.py --movie_id <MOVIE_ID>
+python src/content_based/recommend.py --movie_id
 
-Replace <MOVIE_ID> with the ID of the movie you want to get recommendations for.
+Replace MOVIE_ID with the ID of the movie you want to get recommendations for.
 
 Contributing
 We welcome contributions to improve the Movie Recommendation System! Here are some ways you can contribute:
